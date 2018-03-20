@@ -4,8 +4,7 @@
   "description": "Meine Webseite",
   "main": "server.js",
   "scripts": {
-    "dev": "nodemon server.js",
-    "pretest": "eslint --ignore-path .gitignore ."
+    "dev": "nodemon server.js"
   },
   "author": "",
   "license": "ISC",
